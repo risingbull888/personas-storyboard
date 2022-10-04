@@ -1,0 +1,100 @@
+
+#titleblock {
+  border: 5px solid #162328;
+  border-radius: 10px;
+  background: linear-gradient(#06C167, #162328);
+  color: white;
+}
+
+img {
+  width: 30rem;
+}
+
+#board{
+  width: 70%;
+  height: auto;
+  text-align: center;
+}
+
+body {
+  font-family: 'Uber Move Text', sans-serif;
+  color: #162328;
+  text-align: center;
+  background: linear-gradient(whitesmoke, #162328);
+  margin: 2rem 6rem 2rem
+}
+
+li {
+  margin: 10px 0;
+}
+
+table, th, td {
+  border:2px solid #06C167;
+  border-radius: 3px;
+  align-content: center;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+div.keys {
+  text-align: center;
+
+}
+ul{
+  display: inline-block;
+  text-align: left;
+  max-width: fit-content;
+  place-content: center;
+}
+
+#prep {
+  border:5px solid #162328;
+  border-radius: 10px;
+  border-top: none;
+  background: white;
+}
+
+#obs {
+  border:5px solid #162328;
+  border-top: none;
+  border-radius: 10px;
+  background: white;
+}
+
+#personas {
+  border-radius: 10px;
+  border:5px solid #162328;
+  border-top: none;
+  background: white;
+}
+
+#storyb {
+  border: 5px solid #162328;
+  border-radius: 10px;
+  border-top: none;
+  background: white;
+}
+
+
+figcaption{
+  font-size: 0.8rem;
+  text-shadow: none;
+  color: grey;
+  text-align: center;
+  max-width: 40rem;
+}
+
+
+.ubereats-container{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.gallery-container{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+
